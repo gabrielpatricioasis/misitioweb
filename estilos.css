@@ -123,7 +123,7 @@ nav ul li:hover{
 
 #menu h3 a:link{
 	text-decoration: none;
-	color: #3700ff;
+	color: inherit;
 }
 
 a:visited {
